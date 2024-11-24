@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.maxcarchecker
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, http-client-test, jackson-databind, java, java-application, junit, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, mockito, netty-server, openapi, openapi-explorer, properties, reactor, reactor-http-client, readme, shade, static-resources, tracing-zipkin]
